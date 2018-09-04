@@ -5,34 +5,34 @@ featured-img: lago-inverno
 categories: english, poetry
 ---
 
-May the carriage curtains fall down on this naked city
-Finding myself with dull breaths on my chest
+May the carriage curtains fall down on this naked city  
+Finding myself with dull breaths on my chest  
 With dull thoughts gritting my teeth:
 
-  "I am not good!
-   I'm a liar and a cheat!"
+\ "I am not good!
+\  I'm a liar and a cheat!"
 
 May I lick them round with my muscle
 Pebble them down my throat
 to my precious chicken tummy. 
 Let me digest them, make 'em ring:
 
-  "Unconditional love!
-   Truth! Justice!"
+\ "Unconditional love!
+\  Truth! Justice!"
 
 ...let me sing. Or even:
 
-  "Mild awareness!
-   Glimpse of ore!
-   **Watanabe no kanto**
-   **Watanase no** more!"
+\ "Mild awareness!
+\  Glimpse of ore!
+\  **Watanabe no kanto**
+\  **Watanase no** more!"
 
 Toes, fingers and sand,
 we'll arrive to Rewind Station, 
 a Chattanooga choo-choo rolling through the mouth once again:
 
-	"I've lost the last refrain!
-	 I've lost another friend!"
+\ "I've lost the last refrain!
+\	 I've lost another friend!"
 
 Stop! - I will scream - Set me free!
 It's the billion thousandth time 
@@ -41,7 +41,8 @@ without disembarking me!
 
 All silent passengers echo my call
 **Watanabe no kanto** - one says.
-	"**Watanase no** more."
+
+\	"**Watanase no** more."
 
 Now I see.
 
