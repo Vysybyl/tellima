@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My dear friend
-featured-img: lago-inverno
+featured-img: kitchen
 categories: english prose letter
 ---
 

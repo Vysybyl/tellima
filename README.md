@@ -1,5 +1,16 @@
 # Sleek
 
+## Images:
+. base = 1920 x 1280
+. lg = 1999 x 1125
+. md = 991 x 557
+. placehold = 230 x 129
+. sm = 767 x 431
+. thumb = 535 x 301
+. thumb@2x = 1070 x 602
+. xs = 575 x 323
+
+
 [![Gem Version](https://badge.fury.io/rb/jekyll-sleek.svg)](https://badge.fury.io/rb/jekyll-sleek) [![Build Status](https://travis-ci.org/janczizikow/sleek.svg?branch=master)](https://travis-ci.org/janczizikow/sleek) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/janczizikow/sleek)
 
 A modern [Jekyll](https://jekyllrb.com/) theme focused on speed performance & SEO best practices.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Note sull'etica
-featured-img: lago-inverno
+featured-img: lake-mountains
 categories: italiano prose philosophy
 ---
 
