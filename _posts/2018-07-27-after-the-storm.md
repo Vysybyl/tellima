@@ -1,8 +1,8 @@
 ---
 layout: post
 title: After the storm
-featured-img: wood
-categories: english poetry profecy
+featured-img: toronto
+categories: english poetry prophecy
 ---
 
 While the storm buzzes off down the street
