@@ -2,7 +2,7 @@
 layout: post
 title: Pensieri raccolti camminando per la cittadina di Varese in Lombardia
 featured-img: varese
-categories: italian prose varese
+categories: italiano prose varese
 ---
 
 *Pensieri raccolti camminando per la cittadina di Varese in Lombardia, sedici anni fa circa e oggi.*
