@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sulla natura della mente ovvero sulla libertà
-featured-img: lago-inverno
+featured-img: tevere
 categories: italian, philosophy, meditation, mind
 ---
 
