@@ -2,7 +2,7 @@
 layout: post
 title: Sulla natura della mente ovvero sulla libertà
 featured-img: tevere
-categories: italian, philosophy, meditation, mind
+categories: italian philosophy meditation mind
 ---
 
 
